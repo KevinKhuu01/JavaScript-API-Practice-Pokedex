@@ -1,16 +1,14 @@
-<h1> JavaScript API Practice – Pokedex </h1>
+<h2> JavaScript API Practice – Pokedex </h2>
 
 This pokedex is a practice project focusing on fetching and manipulating external API data
 
 🚀 Live Demo – https://app.netlify.com/projects/kevinkhuupokedex/overview
 
-<br>
 🛠️ Stack<br>
 Languages: JavaScript, HTML, & CSS<br>
 API: PokeAPI<br>
-Tools: Netlify, Github, Postman<br>
+Tools: Netlify, Github, Postman
 
-<br>
 🧠 Concepts<br>
 - Fetching data from an external REST API (PokeAPI)<br>
 - Asynchronous functions (fetch, async/await)<br>
