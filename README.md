@@ -8,7 +8,7 @@ This pokedex is a practice project focusing on fetching and manipulating externa
 🛠️ Stack<br>
 Languages: JavaScript, HTML, & CSS<br>
 API: PokeAPI<br>
-Tools: Netlify, Github, Postman
+Tools: Netlify, Github, Postman<br>
 
 <br>
 🧠 Concepts<br>
