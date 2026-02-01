@@ -5,9 +5,9 @@ This pokedex is a practice project focusing on fetching and manipulating externa
 🚀 Live Demo – https://app.netlify.com/projects/kevinkhuupokedex/overview
 
 🛠️ Stack<br>
-Languages: JavaScript, HTML, & CSS<br>
-API: PokeAPI<br>
-Tools: Netlify, Github, Postman<br>
+- Languages: JavaScript, HTML, & CSS<br>
+- API: PokeAPI<br>
+- Tools: Netlify, Github, Postman<br>
 
 🧠 Concepts<br>
 - Fetching data from an external REST API (PokeAPI)<br>
@@ -16,7 +16,6 @@ Tools: Netlify, Github, Postman<br>
 - Handling user interactions (search, click, display details)<br>
 - Using API JSON responses to populate UI<br>
 
-<br>
 📝 Notes<br>
 - Demonstrates how to use PokeAPI to retrieve Pokémon data and display searchable interface.<br>
 - No frontend frameworks used, only JavaScript.<br>
