@@ -2,7 +2,7 @@
 
 This pokedex is a practice project focusing on fetching and manipulating external API data
 
-🚀 Live Demo – https://app.netlify.com/projects/kevinkhuupokedex/overview
+🚀 Live Demo – https://kevinkhuupokedex.netlify.app/
 
 🛠️ Stack<br>
 - Languages: JavaScript, HTML, & CSS<br>
